@@ -1,16 +1,19 @@
-# Boxing Training Simulation/Game
+#Lock-In
 
-**Redefining Boxing Training for Everyone**  
-An immersive, affordable, and accessible smartphone-based boxing training app that provides real-time feedback and offers a VR gameplay experience.
-
+**Affordable, Accurate, and Fun Boxing Training for Everyone**  
+A smartphone-based boxing training app that provides real-time feedback, makes your movements precise, and adds a gaming twist to keep you engaged.
 
 
 ---
 
 ## Introduction
 
-Traditional boxing training is often expensive and inaccessible due to the need for motion-capture suits or advanced VR setups.  
-This project introduces a **smartphone-based boxing training app** that leverages existing smartphone sensors to deliver real-time feedback and a dynamic training experience.
+Boxing tutorials on YouTube are helpful, but they fall short when it comes to making your movements accurate. Hiring a personal trainer or using professional equipment for full-body tracking can be expensive and inconvenient.
+
+Our solution?  
+A **smartphone-based boxing app** that not only provides **real-time feedback** to improve your form but also turns training into an **engaging and fun experience** with interactive tutorials and immersive VR gameplay.
+
+Whether you're a beginner or a seasoned boxer, this app offers an accessible, affordable, and gamified way to hone your skills.
 
 ---
 
