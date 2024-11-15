@@ -3,17 +3,7 @@
 **Redefining Boxing Training for Everyone**  
 An immersive, affordable, and accessible smartphone-based boxing training app that provides real-time feedback and offers a VR gameplay experience.
 
----
 
-## Table of Contents
-
-- [Introduction](#introduction)  
-- [Features](#features)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [Tech Stack](#tech-stack)  
-- [Contributing](#contributing)  
-- [License](#license)  
 
 ---
 
