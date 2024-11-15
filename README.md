@@ -77,10 +77,25 @@ Whether you're a beginner or a seasoned boxer, this app offers an accessible, af
 
 ## Tech Stack
 
-- **Frontend:** Unity with C#  
-- **Backend:** [Your backend choice, e.g., Firebase, Node.js, etc.]  
-- **Motion Tracking:** Smartphone sensors (gyroscope, accelerometer, magnetometer)  
-- **Platforms:** Android, iOS  
+### Frontend
+- **Unity (C#):** Core framework for building the application.  
+- **Unity UI Toolkit:** Used for designing the user interface.
+
+### Backend
+- **MediaPipe:** Facilitates motion tracking using the smartphone camera.  
+- **NumPy:** Handles data processing for motion analysis.  
+- **Python:** Implements backend logic and motion analysis algorithms.
+
+### Motion Tracking & Analysis
+- **OpenCV:** Used for image processing and camera input.  
+- **MediaPipe:** Performs pose detection and body mapping.
+
+### Game Engine
+- **Unity:** Powers 3D modeling, VR integration, and AI opponent logic.
+
+### Hardware Utilization
+- **Smartphone Camera:** Captures motion data for tracking.  
+- **Smartphone Sensors:** Utilizes gyroscope, accelerometer, and magnetometer for VR orientation tracking.
 
 ---
 
