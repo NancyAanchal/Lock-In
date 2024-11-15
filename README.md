@@ -1,4 +1,4 @@
-#Lock-In
+# Lock-In
 
 **Affordable, Accurate, and Fun Boxing Training for Everyone**  
 A smartphone-based boxing training app that provides real-time feedback, makes your movements precise, and adds a gaming twist to keep you engaged.
